@@ -1,3 +1,5 @@
+// VGA 调色板
+
 #include <stdint.h>
 
 #ifndef _VGA_H

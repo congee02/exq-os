@@ -1,3 +1,5 @@
+// TTY
+
 #include <exqos/tty/vga.h>
 
 typedef unsigned short vga_attributes;
